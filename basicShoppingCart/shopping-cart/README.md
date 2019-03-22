@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Explanation
+
+For this project I used react to build a basic shopping cart type component. This allows for adding new products / empty counters, removing counters, resetting counters to 0, increasing  and decreasing the number of counters, and showing the number of counters over 0 in a navigation bar. For real world use this could be made better by adding names for the counters of different products along with some nicer css.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
